@@ -1,0 +1,15 @@
+{
+  "name": "uber-driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "papaparse": "^5.2.0",
+    "puppeteer-core": "^5.0.0"
+  }
+}
